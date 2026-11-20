@@ -1,7 +1,6 @@
 # 📈 Statistics with R
 
 Statistics problems solved with **base R** – theory checked with simulation.
-Code comments are in **German (A2 level)**.
 
 ## Topics
 | # | Topic | Methods |
