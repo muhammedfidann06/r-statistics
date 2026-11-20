@@ -1,5 +1,10 @@
 # 📈 Statistics with R
 
+[![render](https://github.com/muhammedfidann06/r-statistics/actions/workflows/render.yml/badge.svg)](https://github.com/muhammedfidann06/r-statistics/actions/workflows/render.yml)
+
+> 🇩🇪 **Kurzbeschreibung:** Statistik-Aufgaben mit R – Verteilungen, Konfidenzintervalle, Hypothesentests,
+> Bootstrap und Power-Analyse. Die Theorie wird immer mit einer Simulation geprüft.
+
 Statistics problems solved with **base R** – theory checked with simulation.
 
 ## Topics
